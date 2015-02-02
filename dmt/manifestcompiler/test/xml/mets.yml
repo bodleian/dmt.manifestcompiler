@@ -1,0 +1,421 @@
+mets: 
+ metsHdr: 
+  agent: 
+   - 
+   name: 
+     __prefix: METS
+     __text: " Ross Wayland "
+     toString: 
+    note: 
+     __prefix: METS
+     __text: "Demonstration Digital Object.  This Fedora data object demonstrates the UVA Userinput Image behaviors being fulfilled via the UVA MrSID service.  There is 1 image datastream in the object which is a MrSID wavelet encoded image file.  The fulfillment of the behavior contract entails obtaining two input parameters from the user (the desired image size and yes/no for zoom). The MrSID service uses these input parms to derive an appropriate image from the MrSID file (a JPEG image of the requested size) and to optionally wrap the image in a Java applet that provides zoom capability.  It should also be noted that this object demonstrates how various kinds of XML metadata datastreams can be put in the object.  These are located in the METS dmdSecFedora and amdSec sections."
+     toString: 
+    _ID: A1
+    _ROLE: CREATOR
+    _TYPE: INDIVIDUAL
+    __prefix: METS
+   - 
+   name: 
+     __prefix: METS
+     __text: " University of Virginia Library "
+     toString: 
+    note: 
+     __prefix: METS
+     __text: " Object owned by UVA "
+     toString: 
+    _ID: A2
+    _ROLE: CUSTODIAN
+    _TYPE: ORGANIZATION
+    __prefix: METS
+   - 
+   name: 
+     __prefix: METS
+     __text: " UVA Fedora Repository System"
+     toString: 
+    note: 
+     __prefix: METS
+     __text: " Digital Object is under the custodianship of the Fedora repository system at UVA "
+     toString: 
+    _ID: A3
+    _ROLE: CUSTODIAN
+    _TYPE: OTHER
+    __prefix: METS
+  _ID: H1
+  _CREATEDATE: "2002-05-20T06:32:00"
+  _LASTMODDATE: "2002-05-22T06:32:00"
+  _RECORDSTATUS: A
+  __prefix: METS
+ dmdSecFedora: 
+  - 
+   descMD: 
+    mdWrap: 
+     xmlData: 
+      dc: 
+       title: 
+        __prefix: dc
+        __text: "Exhibit Intro: Architectural drawings, Pavilion III, University of Virginia"
+        toString: 
+       creator: 
+        __prefix: dc
+        __text: "Thomas Jefferson"
+        toString: 
+       subject: 
+        - 
+   __prefix: dc
+         __text: "Pavilion III"
+         toString: 
+        - 
+   __prefix: dc
+         __text: lawn
+         toString: 
+        - 
+   __prefix: dc
+         __text: "University of Virginia"
+         toString: 
+        - 
+   __prefix: dc
+         __text: Jefferson
+         toString: 
+        - 
+   __prefix: dc
+         __text: "Jeffersonian architecture"
+         toString: 
+       description: 
+        __prefix: dc
+        __text: "Exhibition Introduction Image for the collection of architectural drawings of Pavillion III on the lawn at University of Virginia"
+        toString: 
+       publisher: 
+        __prefix: dc
+        __text: IVA
+        toString: 
+       format: 
+        __prefix: dc
+        __text: "image/jpeg"
+        toString: 
+       identifier: 
+        __prefix: dc
+        __text: "demo:11"
+        toString: 
+       rights: 
+        __prefix: dc
+        __text: unrestricted
+        toString: 
+       "_xmlns:oai_dc": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+       "_xmlns:dc": "http://purl.org/dc/elements/1.1/"
+       __prefix: oai_dc
+      __prefix: METS
+     _MIMETYPE: "text/xml"
+     _MDTYPE: OTHER
+     _LABEL: "DC Record for Exhibit Intro: Pavillion III Architectural image object"
+     __prefix: METS
+    _ID: "DC1.0"
+    _CREATED: "2002-05-20T06:32:00"
+    __prefix: METS
+   _ID: DC
+   _STATUS: A
+   __prefix: METS
+  - 
+   descMD: 
+    mdWrap: 
+     xmlData: 
+      desc: 
+       identifier: 
+        _scheme: URN
+        __prefix: uvalibdesc
+        __text: "demo:11"
+        toString: 
+       rights: 
+        _type: use
+        __prefix: uvalibdesc
+        __text: unrestricted
+        toString: 
+       subject: 
+        - 
+   _scheme: other
+         _othertype: keyword
+         __prefix: uvalibdesc
+         __text: "Pavilion III"
+         toString: 
+        - 
+   _scheme: other
+         _othertype: keyword
+         __prefix: uvalibdesc
+         __text: column
+         toString: 
+        - 
+   _scheme: other
+         _othertype: keyword
+         __prefix: uvalibdesc
+         __text: lawn
+         toString: 
+        - 
+   _scheme: other
+         _othertype: keyword
+         __prefix: uvalibdesc
+         __text: "University of Virginia"
+         toString: 
+        - 
+   _scheme: other
+         _othertype: keyword
+         __prefix: uvalibdesc
+         __text: Jefferson
+         toString: 
+        - 
+   _scheme: other
+         _othertype: keyword
+         __prefix: uvalibdesc
+         __text: "Jeffersonian architecture"
+         toString: 
+       title: 
+        _type: main
+        __prefix: uvalibdesc
+        __text: "Exhibit Intro: Architectural drawings, Pavilion III, University of Virginia"
+        toString: 
+       form: 
+        __prefix: uvalibdesc
+        __text: "architectural drawing"
+        toString: 
+       mediatype: 
+        form: 
+         __prefix: uvalibdesc
+         __text: digital
+         toString: 
+        _type: image
+        __prefix: uvalibdesc
+       agent: 
+        - 
+   _type: corpname
+         _role: publisher
+         __prefix: uvalibdesc
+         __text: IVA
+         toString: 
+        - 
+   _type: persname
+         _role: architect
+         __prefix: uvalibdesc
+         __text: "Thomas Jefferson"
+         toString: 
+       culture: 
+        __prefix: uvalibdesc
+        __text: "Early American"
+        toString: 
+       place: 
+        geogname: 
+         __prefix: uvalibdesc
+         __text: "Charlottesville, Virginia USA"
+         toString: 
+        _type: original
+        __prefix: uvalibdesc
+       __prefix: uvalibdesc
+      __prefix: METS
+     _MIMETYPE: "text/xml"
+     _MDTYPE: OTHER
+     _LABEL: "UVA descriptive metadata for MRSID image"
+     __prefix: METS
+    _ID: "DESC1.0"
+    _CREATED: "2002-05-20T06:32:00"
+    __prefix: METS
+   _ID: DESC1
+   _STATUS: A
+   __prefix: METS
+ amdSec: 
+  - 
+   techMD: 
+    mdWrap: 
+     xmlData: 
+      admin: 
+       technical: 
+        format: 
+         __prefix: uvalibadmin
+         __text: "image/x-mrsid-image"
+         toString: 
+        compression: 
+         __prefix: uvalibadmin
+         __text: wavelet
+         toString: 
+        bitDepth: 
+         _BITS: ""
+         __prefix: uvalibadmin
+        colorSpace: 
+         __prefix: uvalibadmin
+        colorProfile: 
+         _CPLOCAT: ""
+         _CPFILE: ""
+         __prefix: uvalibadmin
+        resolution: 
+         __prefix: uvalibadmin
+        __prefix: uvalibadmin
+       __prefix: uvalibadmin
+      __prefix: METS
+     _MIMETYPE: "text/xml"
+     _MDTYPE: OTHER
+     _LABEL: "UVA technical metadata for MRSID image"
+     __prefix: METS
+    _ID: "TECH1.0"
+    _CREATED: "2002-05-20T06:32:00"
+    _STATUS: A
+    __prefix: METS
+   _ID: TECH1
+   __prefix: METS
+  - 
+   techMD: 
+    mdWrap: 
+     xmlData: 
+      admin: 
+       source: 
+        identifier: 
+         __prefix: uvalibadmin
+         __text: "IVA-4"
+         toString: 
+        mediatype: 
+         form: 
+          __prefix: uvalibadmin
+          __text: slide
+          toString: 
+         _type: image
+         __prefix: uvalibadmin
+        __prefix: uvalibadmin
+       __prefix: uvalibadmin
+      __prefix: METS
+     _MIMETYPE: "text/xml"
+     _MDTYPE: OTHER
+     _LABEL: "UVA source metadata for MRSID image"
+     __prefix: METS
+    _ID: "SOURCE1.0"
+    _CREATED: "2002-05-20T06:32:00"
+    _STATUS: A
+    __prefix: METS
+   _ID: SOURCE1
+   __prefix: METS
+  - 
+   techMD: 
+    mdWrap: 
+     xmlData: 
+      admin: 
+       digiprov: 
+        date: 
+         __prefix: uvalibadmin
+         __text: "2001-09-01:06:32:00"
+         toString: 
+        agent: 
+         _type: corpname
+         __prefix: uvalibadmin
+         __text: IVA
+         toString: 
+        description: 
+         __prefix: uvalibadmin
+         __text: creation
+         toString: 
+        __prefix: uvalibadmin
+       __prefix: uvalibadmin
+      __prefix: METS
+     _MIMETYPE: "text/xml"
+     _MDTYPE: OTHER
+     _LABEL: "UVA digiprov metadata for MRSID image"
+     __prefix: METS
+    _ID: "DIGIPROV1.0"
+    _CREATED: "2002-05-20T06:32:00"
+    _STATUS: A
+    __prefix: METS
+   _ID: DIGIPROV1
+   __prefix: METS
+  - 
+   rightsMD: 
+    mdWrap: 
+     xmlData: 
+      admin: 
+       adminrights: 
+        policy: 
+         access: 
+          __prefix: uvalibadmin
+          __text: unrestricted
+          toString: 
+         use: 
+          __prefix: uvalibadmin
+          __text: educational
+          toString: 
+         __prefix: uvalibadmin
+        __prefix: uvalibadmin
+       __prefix: uvalibadmin
+      __prefix: METS
+     _MIMETYPE: "text/xml"
+     _MDTYPE: OTHER
+     _LABEL: "UVA access rights/policy metadata for MRSID  image"
+     __prefix: METS
+    _ID: "RIGHTS1.0"
+    _CREATED: "2002-05-20T06:32:00"
+    _STATUS: A
+    __prefix: METS
+   _ID: RIGHTS1
+   __prefix: METS
+ fileSec: 
+  fileGrp: 
+   fileGrp: 
+    file: 
+     FLocat: 
+      _LOCTYPE: URL
+      "_xlink:href": "http://iris.lib.virginia.edu/mrsid/mrsid_images/iva/archerd01.sid"
+      "_xlink:title": "Exhibit Intro: Architectural Drawings, Pavilion III, University of Virginia"
+      __prefix: METS
+     _ID: "DS1.0"
+     _CREATED: "2002-05-20T06:32:00"
+     _MIMETYPE: "image/x-mrsid-image"
+     _ADMID: "TECH1 DIGIPROV1 SOURCE1 RIGHTS1"
+     _OWNERID: E
+     _STATUS: A
+     __prefix: METS
+    _ID: DS1
+    _STATUS: A
+    __prefix: METS
+   _ID: DATASTREAMS
+   __prefix: METS
+  __prefix: METS
+ structMap: 
+  div: 
+   div: 
+    fptr: 
+     _FILEID: DS1
+     __prefix: METS
+    _TYPE: MRSID
+    _LABEL: "Binding to MrSID file from which different image resolutions will be derived"
+    _ORDER: 0
+    __prefix: METS
+   _TYPE: "demo:9"
+   _LABEL: "DS Binding Map for MrSID Image mechanism"
+   __prefix: METS
+  _ID: S1
+  _TYPE: "fedora:dsBindingMap"
+  __prefix: METS
+ behaviorSec: 
+  serviceBinding: 
+   interfaceMD: 
+    _LABEL: "UserInput Image Behavior Definition"
+    _LOCTYPE: URN
+    "_xlink:href": "demo:8"
+    __prefix: METS
+   serviceBindMD: 
+    _LABEL: "UVA MrSID Behavior Mechanism"
+    _LOCTYPE: URN
+    "_xlink:href": "demo:9"
+    __prefix: METS
+   _ID: "DISS1.0"
+   _STRUCTID: S1
+   _BTYPE: "demo:8"
+   _CREATED: "2002-05-20T06:32:00"
+   _LABEL: "UserInput Image Behaviors"
+   __prefix: METS
+  _ID: DISS1
+  _STATUS: A
+  __prefix: METS
+ "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
+ "_xmlns:METS": "http://www.loc.gov/METS/"
+ "_xmlns:fedoraAudit": "http://fedora.comm.nsdlib.org/audit"
+ "_xmlns:uvalibdesc": "http://dl.lib.virginia.edu/bin/dtd/descmeta/descmeta.dtd"
+ "_xmlns:uvalibadmin": "http://dl.lib.virginia.edu/bin/admin/admin.dtd/"
+ "_xmlns:xlink": "http://www.w3.org/TR/xlink"
+ "_xsi:schemaLocation": "http://www.loc.gov/standards/METS/ http://www.fedora.info/definitions/1/0/mets-fedora-ext.xsd"
+ _OBJID: "demo:11"
+ _TYPE: FedoraObject
+ _LABEL: "Exibit Intro: Architectural drawings, Pavillion III, IVA Image Collection - University of Virginia"
+ _PROFILE: UVA_MRSID_IMAGE
+ __prefix: METS

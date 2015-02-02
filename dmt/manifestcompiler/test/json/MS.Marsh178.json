@@ -1,0 +1,2285 @@
+{
+  "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/manifest.json", 
+  "@type": "sc:Manifest", 
+  "attribution": "Provided by the Bodleian Library, Oxford University", 
+  "description": "Description of Manuscript Goes Here", 
+  "label": "MS. Marsh 178", 
+  "sequences": [
+    {
+      "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/sequence/normal.json", 
+      "@type": "sc:Sequence", 
+      "canvases": [
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c506f1fd3-1266-40c4-9a39-51ecd5dabe79.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a506f1fd3-1266-40c4-9a39-51ecd5dabe79.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c506f1fd3-1266-40c4-9a39-51ecd5dabe79.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/506f1fd3-1266-40c4-9a39-51ecd5dabe79/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/506f1fd3-1266-40c4-9a39-51ecd5dabe79", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "Inside upper cover", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cb5f4bb1d-8c04-4f23-a8e3-9f6371188434.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ab5f4bb1d-8c04-4f23-a8e3-9f6371188434.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cb5f4bb1d-8c04-4f23-a8e3-9f6371188434.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/b5f4bb1d-8c04-4f23-a8e3-9f6371188434/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/b5f4bb1d-8c04-4f23-a8e3-9f6371188434", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "1r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c50997d18-4230-41bd-a7f6-1ece6591220b.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a50997d18-4230-41bd-a7f6-1ece6591220b.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c50997d18-4230-41bd-a7f6-1ece6591220b.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/50997d18-4230-41bd-a7f6-1ece6591220b/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/50997d18-4230-41bd-a7f6-1ece6591220b", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "1v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c0fc07be6-cfcf-4c22-8726-e8257feaff2f.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a0fc07be6-cfcf-4c22-8726-e8257feaff2f.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c0fc07be6-cfcf-4c22-8726-e8257feaff2f.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/0fc07be6-cfcf-4c22-8726-e8257feaff2f/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/0fc07be6-cfcf-4c22-8726-e8257feaff2f", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "2r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cafb53e11-81e4-430d-b4ce-2b84baef824e.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aafb53e11-81e4-430d-b4ce-2b84baef824e.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cafb53e11-81e4-430d-b4ce-2b84baef824e.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/afb53e11-81e4-430d-b4ce-2b84baef824e/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/afb53e11-81e4-430d-b4ce-2b84baef824e", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "2v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c874feb5c-231e-4004-8bbc-92abb35713d2.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a874feb5c-231e-4004-8bbc-92abb35713d2.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c874feb5c-231e-4004-8bbc-92abb35713d2.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/874feb5c-231e-4004-8bbc-92abb35713d2/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/874feb5c-231e-4004-8bbc-92abb35713d2", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "3r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ca3206840-1d50-4b3c-a3f8-e9477257e23b.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aa3206840-1d50-4b3c-a3f8-e9477257e23b.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ca3206840-1d50-4b3c-a3f8-e9477257e23b.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/a3206840-1d50-4b3c-a3f8-e9477257e23b/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/a3206840-1d50-4b3c-a3f8-e9477257e23b", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "3v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c04c76767-0905-4a95-a0f3-f592e1989148.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a04c76767-0905-4a95-a0f3-f592e1989148.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c04c76767-0905-4a95-a0f3-f592e1989148.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/04c76767-0905-4a95-a0f3-f592e1989148/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/04c76767-0905-4a95-a0f3-f592e1989148", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "4r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cee7c9d3a-fd28-4d99-ada6-339e64244b5a.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aee7c9d3a-fd28-4d99-ada6-339e64244b5a.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cee7c9d3a-fd28-4d99-ada6-339e64244b5a.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/ee7c9d3a-fd28-4d99-ada6-339e64244b5a/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/ee7c9d3a-fd28-4d99-ada6-339e64244b5a", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "4v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf9198f58-c48d-4ad0-be16-b028be2251ad.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/af9198f58-c48d-4ad0-be16-b028be2251ad.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf9198f58-c48d-4ad0-be16-b028be2251ad.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f9198f58-c48d-4ad0-be16-b028be2251ad/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f9198f58-c48d-4ad0-be16-b028be2251ad", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "5r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c39aecbc3-5c75-402d-8c7b-15f2a6e69be0.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a39aecbc3-5c75-402d-8c7b-15f2a6e69be0.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c39aecbc3-5c75-402d-8c7b-15f2a6e69be0.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/39aecbc3-5c75-402d-8c7b-15f2a6e69be0/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/39aecbc3-5c75-402d-8c7b-15f2a6e69be0", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "5v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c099371d1-327f-4adc-8fc4-6b62b433aa76.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a099371d1-327f-4adc-8fc4-6b62b433aa76.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c099371d1-327f-4adc-8fc4-6b62b433aa76.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/099371d1-327f-4adc-8fc4-6b62b433aa76/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/099371d1-327f-4adc-8fc4-6b62b433aa76", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "6r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c36e3f8c4-b4f9-4c21-ba93-cc4efa37ac68.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a36e3f8c4-b4f9-4c21-ba93-cc4efa37ac68.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c36e3f8c4-b4f9-4c21-ba93-cc4efa37ac68.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/36e3f8c4-b4f9-4c21-ba93-cc4efa37ac68/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/36e3f8c4-b4f9-4c21-ba93-cc4efa37ac68", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "6v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c008ac282-fa2f-4313-b8c5-7774d51597dc.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a008ac282-fa2f-4313-b8c5-7774d51597dc.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c008ac282-fa2f-4313-b8c5-7774d51597dc.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/008ac282-fa2f-4313-b8c5-7774d51597dc/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/008ac282-fa2f-4313-b8c5-7774d51597dc", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "7r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce56f7f07-b34e-47ed-bd7c-388f1e01596e.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ae56f7f07-b34e-47ed-bd7c-388f1e01596e.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce56f7f07-b34e-47ed-bd7c-388f1e01596e.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e56f7f07-b34e-47ed-bd7c-388f1e01596e/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e56f7f07-b34e-47ed-bd7c-388f1e01596e", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "7v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ccbf181f3-7210-4850-88ef-c8e3dad075de.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/acbf181f3-7210-4850-88ef-c8e3dad075de.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ccbf181f3-7210-4850-88ef-c8e3dad075de.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/cbf181f3-7210-4850-88ef-c8e3dad075de/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/cbf181f3-7210-4850-88ef-c8e3dad075de", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "8r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cdb501ead-7c8a-4331-85d9-796a15294919.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/adb501ead-7c8a-4331-85d9-796a15294919.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cdb501ead-7c8a-4331-85d9-796a15294919.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/db501ead-7c8a-4331-85d9-796a15294919/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/db501ead-7c8a-4331-85d9-796a15294919", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "8v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c2d718e06-d289-4852-bc10-19bdf0c8722f.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a2d718e06-d289-4852-bc10-19bdf0c8722f.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c2d718e06-d289-4852-bc10-19bdf0c8722f.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/2d718e06-d289-4852-bc10-19bdf0c8722f/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/2d718e06-d289-4852-bc10-19bdf0c8722f", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "9r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cbe743b19-034d-4ce4-8159-b19bfe53e18a.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/abe743b19-034d-4ce4-8159-b19bfe53e18a.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cbe743b19-034d-4ce4-8159-b19bfe53e18a.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/be743b19-034d-4ce4-8159-b19bfe53e18a/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/be743b19-034d-4ce4-8159-b19bfe53e18a", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "9v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cea1a5121-056b-4d59-b04a-0db0c59cc3f5.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aea1a5121-056b-4d59-b04a-0db0c59cc3f5.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cea1a5121-056b-4d59-b04a-0db0c59cc3f5.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/ea1a5121-056b-4d59-b04a-0db0c59cc3f5/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/ea1a5121-056b-4d59-b04a-0db0c59cc3f5", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "10r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cc3090963-d64f-4646-9c7a-606d52e98f09.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ac3090963-d64f-4646-9c7a-606d52e98f09.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cc3090963-d64f-4646-9c7a-606d52e98f09.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/c3090963-d64f-4646-9c7a-606d52e98f09/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/c3090963-d64f-4646-9c7a-606d52e98f09", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "10v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce4e1f4cb-fbd8-4aa6-b30b-cba355fd7a78.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ae4e1f4cb-fbd8-4aa6-b30b-cba355fd7a78.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce4e1f4cb-fbd8-4aa6-b30b-cba355fd7a78.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e4e1f4cb-fbd8-4aa6-b30b-cba355fd7a78/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e4e1f4cb-fbd8-4aa6-b30b-cba355fd7a78", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "11r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c3dbd6010-0d17-4e96-9a8f-484c5c2ea30b.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a3dbd6010-0d17-4e96-9a8f-484c5c2ea30b.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c3dbd6010-0d17-4e96-9a8f-484c5c2ea30b.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/3dbd6010-0d17-4e96-9a8f-484c5c2ea30b/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/3dbd6010-0d17-4e96-9a8f-484c5c2ea30b", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "11v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c9e76f767-b180-48f9-b963-2ff7356619af.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a9e76f767-b180-48f9-b963-2ff7356619af.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c9e76f767-b180-48f9-b963-2ff7356619af.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/9e76f767-b180-48f9-b963-2ff7356619af/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/9e76f767-b180-48f9-b963-2ff7356619af", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "12r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf8566c01-6cc6-4702-a35a-e19ca06c907d.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/af8566c01-6cc6-4702-a35a-e19ca06c907d.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf8566c01-6cc6-4702-a35a-e19ca06c907d.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f8566c01-6cc6-4702-a35a-e19ca06c907d/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f8566c01-6cc6-4702-a35a-e19ca06c907d", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "12v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c10a31e20-dc23-4c29-a22a-4697dae06287.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a10a31e20-dc23-4c29-a22a-4697dae06287.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c10a31e20-dc23-4c29-a22a-4697dae06287.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/10a31e20-dc23-4c29-a22a-4697dae06287/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/10a31e20-dc23-4c29-a22a-4697dae06287", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "13r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cb78431e1-54f5-4b75-bf81-4b40e9c1f00e.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ab78431e1-54f5-4b75-bf81-4b40e9c1f00e.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cb78431e1-54f5-4b75-bf81-4b40e9c1f00e.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/b78431e1-54f5-4b75-bf81-4b40e9c1f00e/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/b78431e1-54f5-4b75-bf81-4b40e9c1f00e", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "13v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ca5eaaa92-78bf-4e20-8c3e-91c6daf7968c.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aa5eaaa92-78bf-4e20-8c3e-91c6daf7968c.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ca5eaaa92-78bf-4e20-8c3e-91c6daf7968c.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/a5eaaa92-78bf-4e20-8c3e-91c6daf7968c/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/a5eaaa92-78bf-4e20-8c3e-91c6daf7968c", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "14r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c551f7eb1-443e-4587-9bf7-495c8dd8fab4.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a551f7eb1-443e-4587-9bf7-495c8dd8fab4.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c551f7eb1-443e-4587-9bf7-495c8dd8fab4.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/551f7eb1-443e-4587-9bf7-495c8dd8fab4/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/551f7eb1-443e-4587-9bf7-495c8dd8fab4", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "14v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf7429cdc-c291-475a-b100-c36a7ce75272.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/af7429cdc-c291-475a-b100-c36a7ce75272.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf7429cdc-c291-475a-b100-c36a7ce75272.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f7429cdc-c291-475a-b100-c36a7ce75272/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f7429cdc-c291-475a-b100-c36a7ce75272", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "15r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c090b0a36-5715-48d0-886d-ce8dc2d9128d.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a090b0a36-5715-48d0-886d-ce8dc2d9128d.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c090b0a36-5715-48d0-886d-ce8dc2d9128d.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/090b0a36-5715-48d0-886d-ce8dc2d9128d/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/090b0a36-5715-48d0-886d-ce8dc2d9128d", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "15v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c053befad-53bb-4bbe-b40f-c5339c558a44.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a053befad-53bb-4bbe-b40f-c5339c558a44.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c053befad-53bb-4bbe-b40f-c5339c558a44.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/053befad-53bb-4bbe-b40f-c5339c558a44/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/053befad-53bb-4bbe-b40f-c5339c558a44", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "16r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cd2ab7163-2c4e-404a-b5f6-621ba63a8692.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ad2ab7163-2c4e-404a-b5f6-621ba63a8692.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cd2ab7163-2c4e-404a-b5f6-621ba63a8692.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/d2ab7163-2c4e-404a-b5f6-621ba63a8692/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/d2ab7163-2c4e-404a-b5f6-621ba63a8692", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "16v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf1fe5082-9f9f-482a-b338-c5b7303b9e62.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/af1fe5082-9f9f-482a-b338-c5b7303b9e62.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf1fe5082-9f9f-482a-b338-c5b7303b9e62.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f1fe5082-9f9f-482a-b338-c5b7303b9e62/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f1fe5082-9f9f-482a-b338-c5b7303b9e62", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "17r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c567a9df3-326d-4457-a4c0-d3c6ced32444.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a567a9df3-326d-4457-a4c0-d3c6ced32444.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c567a9df3-326d-4457-a4c0-d3c6ced32444.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/567a9df3-326d-4457-a4c0-d3c6ced32444/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/567a9df3-326d-4457-a4c0-d3c6ced32444", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "17v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c63a2e762-367a-4b32-8d2d-60665c9dc420.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a63a2e762-367a-4b32-8d2d-60665c9dc420.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c63a2e762-367a-4b32-8d2d-60665c9dc420.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/63a2e762-367a-4b32-8d2d-60665c9dc420/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/63a2e762-367a-4b32-8d2d-60665c9dc420", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "18r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c9a10b5e8-0e3f-40a8-9758-40ef430e3912.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a9a10b5e8-0e3f-40a8-9758-40ef430e3912.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c9a10b5e8-0e3f-40a8-9758-40ef430e3912.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/9a10b5e8-0e3f-40a8-9758-40ef430e3912/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/9a10b5e8-0e3f-40a8-9758-40ef430e3912", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "18v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c62b47a92-b946-476a-8ebd-dd1afc57ea56.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a62b47a92-b946-476a-8ebd-dd1afc57ea56.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c62b47a92-b946-476a-8ebd-dd1afc57ea56.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/62b47a92-b946-476a-8ebd-dd1afc57ea56/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/62b47a92-b946-476a-8ebd-dd1afc57ea56", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "19r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cec885ef7-ddeb-41ef-ae6b-7e4da5234074.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aec885ef7-ddeb-41ef-ae6b-7e4da5234074.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cec885ef7-ddeb-41ef-ae6b-7e4da5234074.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/ec885ef7-ddeb-41ef-ae6b-7e4da5234074/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/ec885ef7-ddeb-41ef-ae6b-7e4da5234074", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "19v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cc21c5c28-9d32-48ad-af94-18ebf5a2ecc2.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ac21c5c28-9d32-48ad-af94-18ebf5a2ecc2.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cc21c5c28-9d32-48ad-af94-18ebf5a2ecc2.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/c21c5c28-9d32-48ad-af94-18ebf5a2ecc2/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/c21c5c28-9d32-48ad-af94-18ebf5a2ecc2", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "20r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cfa3adaee-6875-4ddf-a1fb-8bd5c9946da7.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/afa3adaee-6875-4ddf-a1fb-8bd5c9946da7.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cfa3adaee-6875-4ddf-a1fb-8bd5c9946da7.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/fa3adaee-6875-4ddf-a1fb-8bd5c9946da7/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/fa3adaee-6875-4ddf-a1fb-8bd5c9946da7", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "20v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ca846eaf1-c01a-42c0-92b3-bbf4ef9f106f.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aa846eaf1-c01a-42c0-92b3-bbf4ef9f106f.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ca846eaf1-c01a-42c0-92b3-bbf4ef9f106f.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/a846eaf1-c01a-42c0-92b3-bbf4ef9f106f/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/a846eaf1-c01a-42c0-92b3-bbf4ef9f106f", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "21r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c57c6e798-d21b-4252-8fff-0d1d2a5c0236.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a57c6e798-d21b-4252-8fff-0d1d2a5c0236.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c57c6e798-d21b-4252-8fff-0d1d2a5c0236.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/57c6e798-d21b-4252-8fff-0d1d2a5c0236/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/57c6e798-d21b-4252-8fff-0d1d2a5c0236", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "21v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c6ba4325a-fe68-476f-baea-dd9977c10308.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a6ba4325a-fe68-476f-baea-dd9977c10308.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c6ba4325a-fe68-476f-baea-dd9977c10308.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/6ba4325a-fe68-476f-baea-dd9977c10308/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/6ba4325a-fe68-476f-baea-dd9977c10308", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "22r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c6b6cb453-5c22-4685-b0f6-0725cf9c1d67.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a6b6cb453-5c22-4685-b0f6-0725cf9c1d67.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c6b6cb453-5c22-4685-b0f6-0725cf9c1d67.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/6b6cb453-5c22-4685-b0f6-0725cf9c1d67/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/6b6cb453-5c22-4685-b0f6-0725cf9c1d67", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "22v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c4a2cd57a-31a2-4fc0-96cf-2079da1b2076.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a4a2cd57a-31a2-4fc0-96cf-2079da1b2076.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c4a2cd57a-31a2-4fc0-96cf-2079da1b2076.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/4a2cd57a-31a2-4fc0-96cf-2079da1b2076/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/4a2cd57a-31a2-4fc0-96cf-2079da1b2076", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "23r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c33a82048-ae76-432b-a965-b61c72e9f60d.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a33a82048-ae76-432b-a965-b61c72e9f60d.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c33a82048-ae76-432b-a965-b61c72e9f60d.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/33a82048-ae76-432b-a965-b61c72e9f60d/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/33a82048-ae76-432b-a965-b61c72e9f60d", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "23v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c9a234c06-ee37-40b2-861a-4db3091e66d4.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a9a234c06-ee37-40b2-861a-4db3091e66d4.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c9a234c06-ee37-40b2-861a-4db3091e66d4.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/9a234c06-ee37-40b2-861a-4db3091e66d4/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/9a234c06-ee37-40b2-861a-4db3091e66d4", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "24r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ccd0d7c16-5049-452c-b930-a17baafd2b9b.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/acd0d7c16-5049-452c-b930-a17baafd2b9b.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ccd0d7c16-5049-452c-b930-a17baafd2b9b.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/cd0d7c16-5049-452c-b930-a17baafd2b9b/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/cd0d7c16-5049-452c-b930-a17baafd2b9b", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "24v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/caa378a1e-4519-4f96-969e-dac0ff0a110a.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aaa378a1e-4519-4f96-969e-dac0ff0a110a.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/caa378a1e-4519-4f96-969e-dac0ff0a110a.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/aa378a1e-4519-4f96-969e-dac0ff0a110a/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/aa378a1e-4519-4f96-969e-dac0ff0a110a", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "25r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c75785b19-52d8-47b5-a04d-fb7fdc25f889.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a75785b19-52d8-47b5-a04d-fb7fdc25f889.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c75785b19-52d8-47b5-a04d-fb7fdc25f889.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/75785b19-52d8-47b5-a04d-fb7fdc25f889/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/75785b19-52d8-47b5-a04d-fb7fdc25f889", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "25v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c5fbe447b-41bd-4fea-964e-38b3fb7a9ba0.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a5fbe447b-41bd-4fea-964e-38b3fb7a9ba0.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c5fbe447b-41bd-4fea-964e-38b3fb7a9ba0.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/5fbe447b-41bd-4fea-964e-38b3fb7a9ba0/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/5fbe447b-41bd-4fea-964e-38b3fb7a9ba0", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "26r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c261372da-ee00-47ad-97e9-5c11cdc26d3a.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a261372da-ee00-47ad-97e9-5c11cdc26d3a.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c261372da-ee00-47ad-97e9-5c11cdc26d3a.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/261372da-ee00-47ad-97e9-5c11cdc26d3a/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/261372da-ee00-47ad-97e9-5c11cdc26d3a", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "26v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c5e4046e6-b5b2-46ed-ae44-8b1b4973ec11.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a5e4046e6-b5b2-46ed-ae44-8b1b4973ec11.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c5e4046e6-b5b2-46ed-ae44-8b1b4973ec11.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/5e4046e6-b5b2-46ed-ae44-8b1b4973ec11/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/5e4046e6-b5b2-46ed-ae44-8b1b4973ec11", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "27r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c4d1c1a6d-d383-43e2-9b80-4458fc8ecfcb.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a4d1c1a6d-d383-43e2-9b80-4458fc8ecfcb.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c4d1c1a6d-d383-43e2-9b80-4458fc8ecfcb.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/4d1c1a6d-d383-43e2-9b80-4458fc8ecfcb/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/4d1c1a6d-d383-43e2-9b80-4458fc8ecfcb", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "27v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c14d8cfc5-3f51-44c5-80f7-f2ed5c97529b.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a14d8cfc5-3f51-44c5-80f7-f2ed5c97529b.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c14d8cfc5-3f51-44c5-80f7-f2ed5c97529b.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/14d8cfc5-3f51-44c5-80f7-f2ed5c97529b/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/14d8cfc5-3f51-44c5-80f7-f2ed5c97529b", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "28r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c7d9576fb-4987-4fa4-80f2-8464cdc6029a.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a7d9576fb-4987-4fa4-80f2-8464cdc6029a.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c7d9576fb-4987-4fa4-80f2-8464cdc6029a.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/7d9576fb-4987-4fa4-80f2-8464cdc6029a/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/7d9576fb-4987-4fa4-80f2-8464cdc6029a", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "28v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf9f426f9-39a3-4521-88ba-e8a8ccb7043d.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/af9f426f9-39a3-4521-88ba-e8a8ccb7043d.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cf9f426f9-39a3-4521-88ba-e8a8ccb7043d.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f9f426f9-39a3-4521-88ba-e8a8ccb7043d/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/f9f426f9-39a3-4521-88ba-e8a8ccb7043d", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "29r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c77a3b7c4-5b4e-4375-90bd-a0d88acd9e18.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a77a3b7c4-5b4e-4375-90bd-a0d88acd9e18.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c77a3b7c4-5b4e-4375-90bd-a0d88acd9e18.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/77a3b7c4-5b4e-4375-90bd-a0d88acd9e18/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/77a3b7c4-5b4e-4375-90bd-a0d88acd9e18", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "29v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cfe5fb0a2-b072-4ee6-ac23-f5854746e9a9.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/afe5fb0a2-b072-4ee6-ac23-f5854746e9a9.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cfe5fb0a2-b072-4ee6-ac23-f5854746e9a9.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/fe5fb0a2-b072-4ee6-ac23-f5854746e9a9/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/fe5fb0a2-b072-4ee6-ac23-f5854746e9a9", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "30r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce13720a9-415c-45d8-a85b-b1dc5f172914.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ae13720a9-415c-45d8-a85b-b1dc5f172914.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce13720a9-415c-45d8-a85b-b1dc5f172914.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e13720a9-415c-45d8-a85b-b1dc5f172914/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e13720a9-415c-45d8-a85b-b1dc5f172914", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "30v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cbcfb586c-091b-4755-a901-c7ae0407eb58.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/abcfb586c-091b-4755-a901-c7ae0407eb58.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cbcfb586c-091b-4755-a901-c7ae0407eb58.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/bcfb586c-091b-4755-a901-c7ae0407eb58/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/bcfb586c-091b-4755-a901-c7ae0407eb58", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "31r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c3be04c11-ff57-4f81-8ad9-f297c84ccc73.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a3be04c11-ff57-4f81-8ad9-f297c84ccc73.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c3be04c11-ff57-4f81-8ad9-f297c84ccc73.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/3be04c11-ff57-4f81-8ad9-f297c84ccc73/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/3be04c11-ff57-4f81-8ad9-f297c84ccc73", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "31v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c4da0ac69-75f6-42cb-b11f-ea3e67e936bf.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a4da0ac69-75f6-42cb-b11f-ea3e67e936bf.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c4da0ac69-75f6-42cb-b11f-ea3e67e936bf.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/4da0ac69-75f6-42cb-b11f-ea3e67e936bf/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/4da0ac69-75f6-42cb-b11f-ea3e67e936bf", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "32r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c994794c4-9f96-4df8-bd6b-10e34240d60e.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a994794c4-9f96-4df8-bd6b-10e34240d60e.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c994794c4-9f96-4df8-bd6b-10e34240d60e.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/994794c4-9f96-4df8-bd6b-10e34240d60e/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/994794c4-9f96-4df8-bd6b-10e34240d60e", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "32v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c2b35e551-2567-42ad-8be3-2692d77ad244.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a2b35e551-2567-42ad-8be3-2692d77ad244.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c2b35e551-2567-42ad-8be3-2692d77ad244.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/2b35e551-2567-42ad-8be3-2692d77ad244/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/2b35e551-2567-42ad-8be3-2692d77ad244", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "33r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c0d6135e5-6e1c-42d0-a728-db7b674a989f.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a0d6135e5-6e1c-42d0-a728-db7b674a989f.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c0d6135e5-6e1c-42d0-a728-db7b674a989f.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/0d6135e5-6e1c-42d0-a728-db7b674a989f/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/0d6135e5-6e1c-42d0-a728-db7b674a989f", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "33v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c12d6202a-1b09-4ffd-9dab-92ddcb587906.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a12d6202a-1b09-4ffd-9dab-92ddcb587906.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c12d6202a-1b09-4ffd-9dab-92ddcb587906.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/12d6202a-1b09-4ffd-9dab-92ddcb587906/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/12d6202a-1b09-4ffd-9dab-92ddcb587906", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "34r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c3dca4400-0e4d-47a5-a287-ea21927b7b4a.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a3dca4400-0e4d-47a5-a287-ea21927b7b4a.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c3dca4400-0e4d-47a5-a287-ea21927b7b4a.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/3dca4400-0e4d-47a5-a287-ea21927b7b4a/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/3dca4400-0e4d-47a5-a287-ea21927b7b4a", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "34v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ca53f33dd-4d70-46ac-b11d-99006bd9d668.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aa53f33dd-4d70-46ac-b11d-99006bd9d668.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ca53f33dd-4d70-46ac-b11d-99006bd9d668.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/a53f33dd-4d70-46ac-b11d-99006bd9d668/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/a53f33dd-4d70-46ac-b11d-99006bd9d668", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "35r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c936999b9-92b5-449a-88d0-248c45f16bfc.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a936999b9-92b5-449a-88d0-248c45f16bfc.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c936999b9-92b5-449a-88d0-248c45f16bfc.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/936999b9-92b5-449a-88d0-248c45f16bfc/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/936999b9-92b5-449a-88d0-248c45f16bfc", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "35v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/caeb92c70-e40c-424b-b937-18736a0a45c5.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aaeb92c70-e40c-424b-b937-18736a0a45c5.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/caeb92c70-e40c-424b-b937-18736a0a45c5.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/aeb92c70-e40c-424b-b937-18736a0a45c5/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/aeb92c70-e40c-424b-b937-18736a0a45c5", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "36r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c4ec66c93-456f-465a-a999-319c1f8e0410.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a4ec66c93-456f-465a-a999-319c1f8e0410.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c4ec66c93-456f-465a-a999-319c1f8e0410.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/4ec66c93-456f-465a-a999-319c1f8e0410/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/4ec66c93-456f-465a-a999-319c1f8e0410", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "36v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c6b7c07ac-45fe-422d-9261-65bfaf6073c2.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a6b7c07ac-45fe-422d-9261-65bfaf6073c2.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c6b7c07ac-45fe-422d-9261-65bfaf6073c2.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/6b7c07ac-45fe-422d-9261-65bfaf6073c2/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/6b7c07ac-45fe-422d-9261-65bfaf6073c2", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "37r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c2cf81c5b-1ff7-463a-ab5b-843a9c0d1cc6.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a2cf81c5b-1ff7-463a-ab5b-843a9c0d1cc6.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c2cf81c5b-1ff7-463a-ab5b-843a9c0d1cc6.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/2cf81c5b-1ff7-463a-ab5b-843a9c0d1cc6/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/2cf81c5b-1ff7-463a-ab5b-843a9c0d1cc6", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "37v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cee87ded9-ea96-4259-b59b-af9df74fd8c8.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/aee87ded9-ea96-4259-b59b-af9df74fd8c8.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cee87ded9-ea96-4259-b59b-af9df74fd8c8.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/ee87ded9-ea96-4259-b59b-af9df74fd8c8/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/ee87ded9-ea96-4259-b59b-af9df74fd8c8", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "38r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cb0db80b8-3cb6-4f00-8642-55406eaba144.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ab0db80b8-3cb6-4f00-8642-55406eaba144.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cb0db80b8-3cb6-4f00-8642-55406eaba144.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/b0db80b8-3cb6-4f00-8642-55406eaba144/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/b0db80b8-3cb6-4f00-8642-55406eaba144", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "38v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c5b814da7-ef17-4216-9632-44cbe2e27eab.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a5b814da7-ef17-4216-9632-44cbe2e27eab.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c5b814da7-ef17-4216-9632-44cbe2e27eab.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/5b814da7-ef17-4216-9632-44cbe2e27eab/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/5b814da7-ef17-4216-9632-44cbe2e27eab", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "39r", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c91919e4b-ceeb-4da0-8365-4607ee5693e2.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a91919e4b-ceeb-4da0-8365-4607ee5693e2.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c91919e4b-ceeb-4da0-8365-4607ee5693e2.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/91919e4b-ceeb-4da0-8365-4607ee5693e2/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/91919e4b-ceeb-4da0-8365-4607ee5693e2", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "39v", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c196ba48c-790f-4056-8454-03e925ad9a17.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a196ba48c-790f-4056-8454-03e925ad9a17.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c196ba48c-790f-4056-8454-03e925ad9a17.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/196ba48c-790f-4056-8454-03e925ad9a17/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/196ba48c-790f-4056-8454-03e925ad9a17", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "Lower flyleaf recto", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce8b7fa3b-f21e-4436-84ac-7531d4589177.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ae8b7fa3b-f21e-4436-84ac-7531d4589177.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce8b7fa3b-f21e-4436-84ac-7531d4589177.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e8b7fa3b-f21e-4436-84ac-7531d4589177/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e8b7fa3b-f21e-4436-84ac-7531d4589177", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "Lower flyleaf verso", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c98341f79-c3f9-4389-b82d-3165d49a5b54.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/a98341f79-c3f9-4389-b82d-3165d49a5b54.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/c98341f79-c3f9-4389-b82d-3165d49a5b54.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/98341f79-c3f9-4389-b82d-3165d49a5b54/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/98341f79-c3f9-4389-b82d-3165d49a5b54", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "Inside lower cover", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce2d2740f-ec02-4a14-8135-2c4476a072fa.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/ae2d2740f-ec02-4a14-8135-2c4476a072fa.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/ce2d2740f-ec02-4a14-8135-2c4476a072fa.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e2d2740f-ec02-4a14-8135-2c4476a072fa/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/e2d2740f-ec02-4a14-8135-2c4476a072fa", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "Upper cover", 
+          "width": 500
+        }, 
+        {
+          "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cbb41a2e8-dcb0-403d-bc71-d2f93f8e3eb8.json", 
+          "@type": "sc:Canvas", 
+          "height": 500, 
+          "images": [
+            {
+              "@id": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/annotation/abb41a2e8-dcb0-403d-bc71-d2f93f8e3eb8.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "on": "https://databank.ora.ox.ac.uk/temp___Imaging/datasets/canvas/cbb41a2e8-dcb0-403d-bc71-d2f93f8e3eb8.json", 
+              "resource": {
+                "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/bb41a2e8-dcb0-403d-bc71-d2f93f8e3eb8/full/full/0/native.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 500, 
+                "service": {
+                  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+                  "@id": "http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/1421416615872/bb41a2e8-dcb0-403d-bc71-d2f93f8e3eb8", 
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level1"
+                }, 
+                "width": 500
+              }
+            }
+          ], 
+          "label": "Lower cover", 
+          "width": 500
+        }
+      ], 
+      "label": "Normal Order"
+    }
+  ], 
+  "viewingHint": "individuals"
+}

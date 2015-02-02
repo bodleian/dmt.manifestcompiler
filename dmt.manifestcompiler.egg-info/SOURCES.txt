@@ -1,0 +1,9 @@
+setup.py
+dmt.manifestcompiler.egg-info/PKG-INFO
+dmt.manifestcompiler.egg-info/SOURCES.txt
+dmt.manifestcompiler.egg-info/dependency_links.txt
+dmt.manifestcompiler.egg-info/top_level.txt
+dmt/manifestcompiler/__init__.py
+dmt/manifestcompiler/factory.py
+dmt/manifestcompiler/importFiles.py
+dmt/manifestcompiler/importMETS.py

@@ -1,0 +1,160 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "http://www.example.org/metadata/manifest.json", 
+  "@type": "sc:Manifest", 
+  "label": "Manifest", 
+  "metadata": [
+    {
+      "label": "test label", 
+      "value": "test value"
+    }
+  ], 
+  "description": "Description of Manuscript Goes Here", 
+  "attribution": "Provided by Bodleian Library, Oxford, using ManifestFactory code from the Houghton Library, Harvard University", 
+  "viewingHint": "paged", 
+  "sequences": [
+    {
+      "@type": "sc:Sequence", 
+      "canvases": [
+        {
+          "@id": "http://www.example.org/metadata/canvas/ctestimage.json", 
+          "@type": "sc:Canvas", 
+          "label": "Canvas testimage", 
+          "height": 500, 
+          "width": 500, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@type": "oa:Choice", 
+                "default": {
+                  "@id": "http://www.example.org/iiif/testimage.jp2/full/full/0/default.jpg", 
+                  "@type": "dctypes:Image", 
+                  "format": "image/jpeg", 
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "http://www.example.org/iiif/testimage.jp2", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                }, 
+                "item": [
+                  {
+                    "@id": "http://www.example.org/iiif/testimageb.jp2/full/full/0/default.jpg", 
+                    "@type": "dctypes:Image", 
+                    "format": "image/jpeg", 
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json", 
+                      "@id": "http://www.example.org/iiif/testimageb.jp2", 
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              }, 
+              "on": "http://www.example.org/metadata/canvas/ctestimage.json"
+            }
+          ], 
+          "otherContent": [
+            {
+              "@id": "http://www.example.org/metadata/list/foo.json", 
+              "@type": "sc:AnnotationList", 
+              "label": ""
+            }
+          ]
+        }, 
+        {
+          "@id": "http://www.example.org/metadata/canvas/ctestimage3.json", 
+          "@type": "sc:Canvas", 
+          "label": "Canvas testimage3", 
+          "height": 500, 
+          "width": 500, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@type": "oa:Choice", 
+                "default": {
+                  "@id": "http://www.example.org/iiif/testimage3.jp2/full/full/0/default.jpg", 
+                  "@type": "dctypes:Image", 
+                  "format": "image/jpeg", 
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "http://www.example.org/iiif/testimage3.jp2", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                }, 
+                "item": [
+                  {
+                    "@id": "http://www.example.org/iiif/testimage3b.jp2/full/full/0/default.jpg", 
+                    "@type": "dctypes:Image", 
+                    "format": "image/jpeg", 
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json", 
+                      "@id": "http://www.example.org/iiif/testimage3b.jp2", 
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              }, 
+              "on": "http://www.example.org/metadata/canvas/ctestimage3.json"
+            }
+          ], 
+          "otherContent": [
+            {
+              "@id": "http://www.example.org/metadata/list/foo.json", 
+              "@type": "sc:AnnotationList", 
+              "label": ""
+            }
+          ]
+        }, 
+        {
+          "@id": "http://www.example.org/metadata/canvas/ctestimage2.json", 
+          "@type": "sc:Canvas", 
+          "label": "Canvas testimage2", 
+          "height": 500, 
+          "width": 500, 
+          "images": [
+            {
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@type": "oa:Choice", 
+                "default": {
+                  "@id": "http://www.example.org/iiif/testimage2.jp2/full/full/0/default.jpg", 
+                  "@type": "dctypes:Image", 
+                  "format": "image/jpeg", 
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json", 
+                    "@id": "http://www.example.org/iiif/testimage2.jp2", 
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                }, 
+                "item": [
+                  {
+                    "@id": "http://www.example.org/iiif/testimage2b.jp2/full/full/0/default.jpg", 
+                    "@type": "dctypes:Image", 
+                    "format": "image/jpeg", 
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json", 
+                      "@id": "http://www.example.org/iiif/testimage2b.jp2", 
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              }, 
+              "on": "http://www.example.org/metadata/canvas/ctestimage2.json"
+            }
+          ], 
+          "otherContent": [
+            {
+              "@id": "http://www.example.org/metadata/list/foo.json", 
+              "@type": "sc:AnnotationList", 
+              "label": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
