@@ -28,8 +28,6 @@ or ```manifest = import_files_export_iiif_json(args).execute()```
 Installation
 ============
 
-To deploy Loris on a server, follow these instructions. Whenever this GIT account is updated, Docker will run a test deployment at ```https://registry.hub.docker.com/u/bdlss/buildout.loris/```. Please see **Continuous Integration** section above for more details.
-
 Create user "bodl-dmt-svc"
 ----------------------------
 
