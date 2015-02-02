@@ -1,9 +1,0 @@
-language: python
-python:
-  - "2.7"
-# command to install dependencies
-install:
-#  - pip install .
-# command to run tests
-script: python importFiles.py -p ./dmt/manifestcompiler/test/images -t jp2 -i http://iiif-dev.bodleian.ox.ac.uk/loris/ -m http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/ -ht 500 -wt 500
-script: python importMETS.py -p ./dmt/manifestcompiler/test/xml/mets.xml -i http://iiif-dev.bodleian.ox.ac.uk/loris/ -m http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/ -ht 500 -wt 500
