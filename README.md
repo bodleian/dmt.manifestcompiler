@@ -17,8 +17,8 @@ First, in ```yourFile.py```:
 
 ```code
 from factory import ManifestFactory
-from importFiles import import_mets_export_iiif_json
 from importFiles import import_images_export_iiif_json
+from importMETS import import_mets_export_iiif_json
 ```
 
 Then, for example, ```manifest = import_mets_export_iiif_json(args).execute()```
