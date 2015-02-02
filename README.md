@@ -1,8 +1,7 @@
 Introduction
 ============
 
-
-This egg comprises of two command line tools to compile IIIF compliant manifests:
+This egg comprises of two command line tools to compile IIIF compliant manifests (it uses Harvard University's ManifestFactory code from https://github.com/IIIF/presentation-api):
 
 First, a command line tool to take folder path of a group of images of type given. From this it will generate a IIIF compliant JSON manifest for viewing via Mirador and a Loris/IIP image server.
 
