@@ -15,7 +15,7 @@ These may be called from the command line via ```__main__``` or as an object cal
 
 First, in ```yourFile.py```:
 
-``code
+```code
 from factory import ManifestFactory
 from importFiles import import_mets_export_iiif_json
 from importFiles import import_images_export_iiif_json
