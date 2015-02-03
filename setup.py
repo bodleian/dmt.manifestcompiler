@@ -4,5 +4,6 @@ setup(
     name='dmt.manifestcompiler',
     version='1.0',
     namespace_packages=['dmt',],
+    include_package_data=True,
     packages=['manifestcompiler',],
 )
