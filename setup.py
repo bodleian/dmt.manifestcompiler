@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='dmt.manifestcompiler',
+setup(name='manifestcompiler',
 version='1.0',
-packages=['dmt.manifestcompiler',],
+packages=['manifestcompiler',],
 )
