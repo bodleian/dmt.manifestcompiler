@@ -135,9 +135,8 @@ Run Tests
 ---------
 
 ```bash
-python importFiles.py -p /home/bodl-dmt-svc/sites/bodl-dmt-svc/parts/omelette/dmt.manifestcompiler/test/images -t jp2 -i http://iiif-dev.bodleian.ox.ac.uk/loris/ -m http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/ -ht 500 -wt 500
-```
+python src/dmt.manifestcompiler/dmt/manifestcompiler/importFiles.py -p src/dmt.manifestcompiler/dmt/manifestcompiler/test/images/ -t jp2 -i http://example.com/images/ -m http://example.com/meta/ -ht 500 -wt 500
 
-```bash
-python importMETS.py -p /home/bodl-dmt-svc/sites/bodl-dmt-svc/parts/omelette/dmt.manifestcompiler/test/xml/mets.xml -i http://iiif-dev.bodleian.ox.ac.uk/loris/ -m http://iiif-dev.bodleian.ox.ac.uk/iiif/metadata/ -ht 500 -wt 500
+python src/dmt.manifestcompiler/dmt/manifestcompiler/importMETS.py -p src/dmt.manifestcompiler/dmt/manifestcompiler/test/xml/mets.xml -i http://example.com/images/ -m http://example.com/meta/ -ht 500 -wt 500
+
 ```
