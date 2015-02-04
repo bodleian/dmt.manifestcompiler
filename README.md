@@ -1,5 +1,3 @@
-![Travis build status](https://travis-ci.org/bodleian/dmt.manifestcompiler.svg?branch=master)
-
 [<img src="https://travis-ci.org/bodleian/dmt.manifestcompiler.svg?branch=master">](https://travis-ci.org/bodleian/dmt.manifestcompiler)
 
 Introduction
