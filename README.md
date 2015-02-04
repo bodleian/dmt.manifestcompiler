@@ -62,6 +62,15 @@ git config --global user.email "my@address.com"
 git config --global user.name "name in quotes"
 ```
 
+Setup server
+------------
+
+```bash
+su - <sudo user>
+sudo apt-get install $(cat /home/bodl-dmt-svc/sites/bodl-dmt-svc/ubuntu_requirements)
+su - bodl-dmt-svc
+```
+
 Checkout the buildout
 ---------------------
 ```bash
