@@ -1,4 +1,4 @@
-![<img src="https://travis-ci.org/bodleian/dmt.manifestcompiler.svg?branch=master">](https://travis-ci.org/bodleian/dmt.manifestcompiler)
+![https://travis-ci.org/bodleian/dmt.manifestcompiler.svg?branch=master](https://travis-ci.org/bodleian/dmt.manifestcompiler)
 
 Introduction
 ============
