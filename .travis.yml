@@ -2,7 +2,6 @@ language: python
 python: "2.7"
 before_install:
 install:
-- sudo apt-get install python-dev libxml2 libxml2-dev libxslt-dev
 - mkdir -p ~/sites/bodl-dmt-svc
 - cd ~/sites/bodl-dmt-svc
 - git clone https://github.com/bodleian/dmt.manifestcompiler.git ./
@@ -10,6 +9,7 @@ install:
 - . bin/activate
 - pip install zc.buildout
 - pip install distribute
+- pip install lxml
 - buildout init
 - buildout -c development.cfg
 script: 
