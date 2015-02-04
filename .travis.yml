@@ -12,7 +12,7 @@ install:
 - buildout init
 - buildout -c development.cfg
 script: 
-- python src/src/dmt.manifestcompiler/dmt/manifestcompiler/importFiles.py -p test/images/ -t jp2 -i http://example.com/images/ -m http://example.com/meta/ -ht 500 -wt 500
-- python src/src/dmt.manifestcompiler/dmt/manifestcompiler/importMETS.py -p test/xml/mets.xml -i http://example.com/images/ -m http://example.com/meta/ -ht 500 -wt 500
+- python src/dmt.manifestcompiler/dmt/manifestcompiler/importFiles.py -p test/images/ -t jp2 -i http://example.com/images/ -m http://example.com/meta/ -ht 500 -wt 500
+- python src/dmt.manifestcompiler/dmt/manifestcompiler/importMETS.py -p test/xml/mets.xml -i http://example.com/images/ -m http://example.com/meta/ -ht 500 -wt 500
 after_success: 
 
