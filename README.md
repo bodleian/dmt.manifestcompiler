@@ -1,3 +1,5 @@
+![Travis build status](https://travis-ci.org/bodleian/dmt.manifestcompiler.svg?branch=master)
+
 Introduction
 ============
 
